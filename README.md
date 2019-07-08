@@ -54,16 +54,16 @@ The course is offered in block format comprising three blocks of two days per bl
 
 | Date | Time | Topic | Lecturer |
 |------|------|-------|---------|
-| 24/9 | 9-10 | Introduction to the course | Arindam Basu |
-| 24/9 | 10-10:15 | Morning tea break |  |
-| 24/9 | 10:15 - 12:00 | Environmental Biostatistics, part I | Arindam Basu |
-| 24/9 | 12:00 - 2:00 pm | Environmental Epidemiological data anaysis | Arindam Basu |
-| 24/9 | 2:00 - 3:00 pm  | Group work to identify research topic | Arindam Basu |
-| 25/9 | 9:00 - 10:00 | Environmental Epidemiology, part I | Ann Richardson |
-| 25/9 | 10:00 - 11:00 | Environmental Epidemiology, part II | Ann Richardson |
-| 25/9 | 11:00 - 12:00 | Epidemiology investigation | Jeff Foote |
-| 25/9 | 12:00 - 1:00 pm | Lunch break | N/A  |
-| 25/9 | 1:00 - 3:00 pm | Natural Toxins and Epigenetics | Ian Shaw |
+| 24/7 | 9-10 | Introduction to the course | Arindam Basu |
+| 24/7 | 10-10:15 | Morning tea break |  |
+| 24/7 | 10:15 - 12:00 | Environmental Biostatistics, part I | Arindam Basu |
+| 24/7 | 12:00 - 2:00 pm | Environmental Epidemiological data anaysis | Arindam Basu |
+| 24/7 | 2:00 - 3:00 pm  | Group work to identify research topic | Arindam Basu |
+| 25/7 | 9:00 - 10:00 | Environmental Epidemiology, part I | Ann Richardson |
+| 25/7 | 10:00 - 11:00 | Environmental Epidemiology, part II | Ann Richardson |
+| 25/7 | 11:00 - 12:00 | Epidemiology investigation | Jeff Foote |
+| 25/7 | 12:00 - 1:00 pm | Lunch break | N/A  |
+| 25/7 | 1:00 - 3:00 pm | Natural Toxins and Epigenetics | Ian Shaw |
 | 21/8 | 9:00 - 10:00  | Outbreak investigation | Ann Richardson |
 | 21/8 | 10:00 - 12:00 | Investigation of chronic environmental diseases | Arindam Basu |
 | 21/8 | 12:00 - 1:00 pm | Lunch break  | N/A   |
