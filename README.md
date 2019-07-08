@@ -57,15 +57,16 @@ The course is offered in block format comprising three blocks of two days per bl
 | 24/7 | 9-10 | Introduction to the course | Arindam Basu |
 | 24/7 | 10-10:15 | Morning tea break |  |
 | 24/7 | 10:15 - 12:00 | Environmental Biostatistics, part I | Arindam Basu |
-| 24/7 | 12:00 - 2:00 pm | Environmental Epidemiological data anaysis | Arindam Basu |
-| 24/7 | 2:00 - 3:00 pm  | Group work to identify research topic | Arindam Basu |
+| 24/7 | 12:00 - 1:00 pm | Lunch break | N/A |
+| 24/7 | 1:00 - 2:00 pm  | Group work to identify a research topic | N/A |
+| 24/7 | 2:00 - 3:00 pm  | Environmental Biostatistics, part II | Arindam Basu |
 | 25/7 | 9:00 - 10:00 | Environmental Epidemiology, part I | Ann Richardson |
 | 25/7 | 10:00 - 11:00 | Environmental Epidemiology, part II | Ann Richardson |
-| 25/7 | 11:00 - 12:00 | Epidemiology investigation | Jeff Foote |
+| 25/7 | 11:00 - 12:00 | Hands on Environmental Epidemiological data analysis, part I | Arindam Basu |
 | 25/7 | 12:00 - 1:00 pm | Lunch break | N/A  |
-| 25/7 | 1:00 - 3:00 pm | Natural Toxins and Epigenetics | Ian Shaw |
+| 25/7 | 1:00 - 3:00 pm | Hands on Environmental Epidemiological data analysis, part II | Arindam Basu |
 | 21/8 | 9:00 - 10:00  | Outbreak investigation | Ann Richardson |
-| 21/8 | 10:00 - 12:00 | Investigation of chronic environmental diseases | Arindam Basu |
+| 21/8 | 10:00 - 12:00 | Investigation of chronic environmental diseases | Arindam Basu & Jeff Foote |
 | 21/8 | 12:00 - 1:00 pm | Lunch break  | N/A   |
 | 21/8 | 1:00 - 3:00 pm  | Student preparations of presentations | Examiners |
 | 22/8 | 9:00 - 12:00 pm | Environmental health risk assessment  | Arindam Basu |
@@ -76,7 +77,7 @@ The course is offered in block format comprising three blocks of two days per bl
 | 25/9 | 12:00 - 1:00 pm | Lunch |N/A |
 | 25/9 | 1:00 - 3:00 pm | Food safety, part II | Ian Shaw |
 | 26/9 | 9:00 - 12:00 pm | Environmental health case studies | Alistair Humphrey |
-| 26/9 | 1:00 - 3:00 pm | Field visit to Christchurch Wastewater treatment plant | CCC | 
+| 26/9 | 1:00 - 3:00 pm | Field visit to Christchurch Wastewater treatment plant | CCC |
 
 
 ## Assessments
