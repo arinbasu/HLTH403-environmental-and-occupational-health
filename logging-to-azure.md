@@ -11,7 +11,7 @@ Follow these steps:
 
 1. Visit the following web page: [https://azure.microsoft.com/en-gb/free/students/](https://azure.microsoft.com/en-gb/free/students/). This will bring up a webpage that looks like this:
 
-![azure landing page](azure_01.png)
+![azure landing page](azure_01.PNG)
 
 2. Click "Activate Now", it will ask you a series of questions to activate your account on Azure. It will ask to verify your Uni email address, provide the University of Canterbury email address and then check your email, it will send you a verification code. The verification code will arrive at your mailbox from the Microsoft Vetting services.
 
@@ -20,6 +20,6 @@ Follow these steps:
 
 4. If everything goes well, you will see a page that looks like this:
 
-![environmental health page](azure_02.png)
+![environmental health page](azure_02.PNG)
 
 You are all set to work with the data science and biostats class. 
