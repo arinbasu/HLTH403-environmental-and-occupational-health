@@ -18,6 +18,8 @@ Follow these steps:
 3. After you have completed the process, and checked that your account works, please visit the following website:
 [https://notebooks.azure.com/arinbasu/projects/envhlth](https://notebooks.azure.com/arinbasu/projects/envhlth)
 
+4. As you visit the link, it will ask you to log in. Log in with your credentials you used to sign up. You will then be taken to the new folder where our teaching files live.
+
 4. If everything goes well, you will see a page that looks like this:
 
 ![environmental health page](azure_02.PNG)
