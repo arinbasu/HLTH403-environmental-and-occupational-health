@@ -56,28 +56,32 @@ The course is offered in block format comprising three blocks of two days per bl
 |------|------|-------|---------|
 | 24/7 | 9-10 | Introduction to the course | Arindam Basu |
 | 24/7 | 10-10:15 | Morning tea break |  |
-| 24/7 | 10:15 - 12:00 | Environmental Biostatistics, part I | Arindam Basu |
-| 24/7 | 12:00 - 1:00 pm | Lunch break | N/A |
-| 24/7 | 1:00 - 2:00 pm  | Group work to identify a research topic | N/A |
-| 24/7 | 2:00 - 3:00 pm  | Environmental Biostatistics, part II | Arindam Basu |
+| 24/7 | 10:15 - 11:00 | Environmental data science, part I | Arindam Basu |
+| 24/7 | 11:00 - 12:00 pm | Lunch break | N/A |
+| 24/7 | 12:00 - 2:00 pm  | Environmental health data science, part II | N/A |
+| 24/7 | 2:00 - 2:15 pm   | Afternoon tea break  | N/A |
+| 24/7 | 2:15 - 3:00 pm  | Group discussion on research interest | Arindam Basu |
 | 25/7 | 9:00 - 10:00 | Environmental Epidemiology, part I | Ann Richardson |
 | 25/7 | 10:00 - 11:00 | Environmental Epidemiology, part II | Ann Richardson |
 | 25/7 | 11:00 - 12:00 | Hands on Environmental Epidemiological data analysis, part I | Arindam Basu |
 | 25/7 | 12:00 - 1:00 pm | Lunch break | N/A  |
 | 25/7 | 1:00 - 3:00 pm | Hands on Environmental Epidemiological data analysis, part II | Arindam Basu |
 | 21/8 | 9:00 - 10:00  | Outbreak investigation | Ann Richardson |
-| 21/8 | 10:00 - 12:00 | Investigation of chronic environmental diseases | Arindam Basu & Jeff Foote |
+| 21/8 | 10:00 - 12:00 | Hands on outbreak investigation | Arindam Basu |
 | 21/8 | 12:00 - 1:00 pm | Lunch break  | N/A   |
-| 21/8 | 1:00 - 3:00 pm  | Student preparations of presentations | Examiners |
+| 21/8 | 1:00 - 2:00 pm  | Student presentations, set I | All |
+| 21/8 | 2:00 - 2:15 pm  | Afternoon tea break  | All |
+| 21/8 | 2:15 - 3:00 pm  | Student presentations and debriefing | All |
 | 22/8 | 9:00 - 12:00 pm | Environmental health risk assessment  | Arindam Basu |
 | 22/8 | 12:00 - 1:00 pm | Lunch  | N/A |
-| 22/8 | 1:00 - 2:00 pm | Air Pollution, WASH, climate change, part I | Arindam Basu |
-| 22/8 | 2:00 pm - 3:00 pm | Air pollution, WASH, climate change, part II  | Arindam Basu |
+| 22/8 | 1:00 - 2:00 pm | An environmental investigation | Jeff Foote |
+| 22/8 | 2:00 pm - 3:00 pm | Food toxins  | Ian Shaw |
 | 25/9 | 9:00 am - 12:00 pm | Food safety, part I | Ian Shaw |
 | 25/9 | 12:00 - 1:00 pm | Lunch |N/A |
 | 25/9 | 1:00 - 3:00 pm | Food safety, part II | Ian Shaw |
 | 26/9 | 9:00 - 12:00 pm | Environmental health case studies | Alistair Humphrey |
-| 26/9 | 1:00 - 3:00 pm | Field visit to Christchurch Wastewater treatment plant | CCC |
+| 25/9 | 12:00 - 12:30 pm | Lunch  | All |
+| 26/9 | 12:30 - 3:00 pm | Field visit to Christchurch Wastewater treatment plant | CCC |
 
 
 ## Assessments
