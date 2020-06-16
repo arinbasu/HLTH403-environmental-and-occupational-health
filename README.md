@@ -1,6 +1,7 @@
 ---
-title: HLTH403 Environmental Health
+title: HLTH403: Environmental Health
 author: Arindam Basu
+date: 2020-06-17
 ---
 
 # Course outline and handbook for HLTH403: Environmental Health
@@ -16,8 +17,7 @@ or on an average 4 hours per day reading and researching about Environmental Hea
 We have three assignments for you to show your competence and mastery of the topics. 
 This course is also a **required course of study** if you are enrolled in MHealSc at the School of Health Sciences and have opted for an endorsement in Environmental Health.
 
-We cover three concepts in this course:
-
+We cover three topics in this course:
 - Environmental Epidemiology, the "basic science" of Environmental Health
 - Toxicology, to understand the biological basis of how environmental and health aspects are interconnected
 - Environmental Health Risk Assessment, the procedure that brings together the concepts of Environmental Epidemiology and Toxicology together
@@ -25,10 +25,10 @@ We cover three concepts in this course:
 ## Learning outcomes
 Students who successfully complete this course will:
 
-- Demonstrate mastery of their knowledge and skills to investigate and address health problems that have origins in the physical, chemical, and social environments (LO1) 
-- Critically appraise a range of literature on Environmental conditions as source of illnesses and burden of disease (LO2)
-- Design studies to address environmental health related problems (LO3)
-- Demonstrate understanding of the larger community based issues related to Environmental sources of illness (LO4)
+- Demonstrate mastery of their knowledge and skills to investigate and address health problems that have origins in the physical, chemical, and social environments 
+- Critically appraise a range of literature on Environmental conditions as source of illnesses and burden of disease
+- Design studies to address environmental health related problems
+- Demonstrate understanding of the larger community based issues related to Environmental sources of illness
 
 ## University Graduate Attributes Addressed
 - Analytical, critical thinking and problem-solving in diverse contexts (GA1: Employable, innovative and enterprising)
@@ -69,85 +69,110 @@ The lecture schedule is as follows:
 | 24th September | Case studies in Environmental Health, Summary | HP 308 |
 
 
-## Course coordinator/teachers
+## Course coordinator
 - The course coordinator is Arindam Basu
 - [Email: arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
-- To make an appointment with Arindam, please visit the following link: [set up appointment with Arindam Basu](https://appoint.ly/s/arin_basu/face_to_face_meeting)
 
-- Professor Ian Shaw
-
-### Guest Lecturers
-- Dr Alistair Humphrey, CDHB
-- Dr. Jeff Foote, University of Otago
-
-### Arindam Basu's Office address:
+### Office address:
 Room 405F, Manawa Building,  
 176, St Asaph Street,  
 Phone: 03 369 3509
 
-## Assessments
-There are three assessments for this course described as follows.
+## Assessment
 
 
-### A1. Assessment I: Annotated Bibliography of an environmental health topic  (30%. marked out of 30)
+ 
 
-Write an annotated bibliography of an environmental health topic of your choice. 
-An annotated bibliography consists of a citation of a research paper, 
-or any other document (in our case using APA 7th edition citation).
-Following the citation, you will write a summary of the key points covered in the document, 
-and your reflections on the content.
-Your reflection will include the quality of the paper, 
-and notes on the assumption and key facts covered in the paper/book/monograph on the topic.
-You can also write about your own ideas and previous readings on the topic.
-
-Step by step instructions:
-1. Start with an environmental health topic of your choice
-2. Run a search of the topic on Environmental Health related internet sources and sources located at the UC library
-3. Identify relevant papers
-4. Create APA formatted list of citations.
-5. Read the full text of the paper/book/monograph/report.
-6. Write your commentary next to the citation
-7. Follow the template provided in the Learn page
-8. The length of the annotated bibliography must be 1500 words or less. 
-9. The word count does not include words in tables, and figures.
-10. As this is an annotated bibliography, a separate citation list is not needed. You can add footnotes or endnotes.
-11. After you complete writing the annotated bibliography, submit a PDF version to the Learn site by **30th July, 2020, 5 PM** (this is a hard deadline, you can submit earlier)
-
-### A2. Assessment II: Write a simplified systematic map of an environmental health issue  (50%)
-In this assessment, you will write a systematic map of an environmental issue.
-A systematic map is a document that lists relevant studies investigating an issue, in this case an environmental health related problem and analyses the literature. The entire process can be detailed and time consuming almost as complex as a systematic review. You will identify an environmental issue and develop a systematic map to answer a specific question. 
-
-Step by step instructions:
-1. Start with an environmental health question (you can use the question you used in A1)
-2. As before conduct a search of the literature to identify relevant studies. This time, pay attention the PECO (population, exposure, comparator, outcomes) framework, and details of the year, language and other inclusion/exclusion criteria
-3. Identify studies based on your search criteria.
-4. Critically appraise the studies for their quality based on how well they address the research issues and write a summary of the synthesis
-5. Write an overview of the evidence and quality of studies that address the environmental health question you raised
-6. Follow the template provided in the Learn page for this assessment.
-7. After writing the assignment, save the document as a PDF and upload to Learn in the assessments page
-8. The word limit for this exercise is 2000 words and word count excludes words included in figures, tables, and reference lists
-9. Use APA 7th Edition for citations
-10. Submit by 4th September, 2020, 5 PM. This is a hard deadline. You can submit earlier.
-
-### A3. Assessment III: Write a review of an Environmental Health Risk Assessment paper
-In this assessment, you will critique and write a review of an existent Environmental Health Risk Assessment conducted by someone/some group. Find out such an assessment document, read it, and critique it with respect to the following four criteria: hazard identification (what hazard was identified and was the hazard identification process robust enough?), dose-response assessment (was dose-response assessment process robus and what is your interpretation of the dose-response assessment), exposure assessment (discuss the necessary toxicological perspectives), and finally summarise and critique the risk characterisation process and how can that information be used.
-
-Step by step instructions:
-1. Select an environmental health problem.
-2. Identify a previously conducted Environmental Health Risk Assessment and access the document.
-3. Read the document and take notes keeping in mind the four tasks (hazard identification, exposure assessment, dose-response assessment, and risk characterisation)
-4. Write your critique of the EHRA process and content using the template available on Learn.
-5. Convert the document to PDF and upload to Learn Assessment page by 4th October, 2020, 5 PM. This is a hard deadline. You can submit earlier if you wish. 
 
 ## Links
 - the [official page of the course lives here](https://learn.canterbury.ac.nz/course/view.php?id=7186). 
 
+
+
+
+
 For details about [the timetable and the course, visit this link](http://www.canterbury.ac.nz/courseinfo/GetCourseDetails.aspx?course=HLTH403&occurrence=17S2(D))
 
+## Course coordinator and teachers
+
+- Course co-ordinator: Arindam Basu [arindam.basu@canterbury.ac.nz](mailto:arindam.basu@canterbury.ac.nz)
+
+Office address:  
+Manawa 405F  
+Antigua Street  
+Phone: 03 369 3509  
+To make an appointment with Arindam, please visit the following link: [set up appointment with Arindam Basu](https://appoint.ly/s/arin_basu/face_to_face_meeting)
+
+Course teachers and lecturers:
+- Professor Ann Richardson
+- Professor Ian Shaw
+Guest Lecturers
+- Dr Alistair Humphrey, CDHB
+- Dr. Jeff Foote, University of Otago
 
 
+## Goals and Objectives
+Following successful completion of the course, the student will be able to:
+
+- Define the steps of environmental health risk assessment
+- Distinguish between hazard, risk, exposure, and dose
+- Discuss principles of environmental epidemiology
+- Discuss principles of human toxicology
+- Identify and discuss local and global environmental health issues
+
+## Format
+The course is offered in block format comprising three blocks of two days per block. 
+
+- The first block will be between 24th and 25th July (Wednesday and Thursday) between 9 AM and 3:00 PM. The classes will be held at Wheki 103 on the 24th July, and Wheki 101 on the 25th July
+- The second block will be between 21st and 22nd August, (Wednesday and Thursday), 9:00 AM – 3:00 PM. On the 21st August, the class will be held at Wheki 106, the class on 22nd August, Thursday will be held at Wheki 103.   
+- The third block will be between 25th and 26th September, (Wednesday and Thursday), 9:00 AM – 3:00 PM. On the 25th September, the class will be held at Wheki 106, the class on 26th September, Thursday will be held at Wheki 103.
+
+## Timetable
+
+| Date | Time | Topic | Lecturer |
+|------|------|-------|---------|
+| 24/7 | 9-10 | Introduction to the course | Arindam Basu |
+| 24/7 | 10-10:15 | Morning tea break |  |
+| 24/7 | 10:15 - 11:00 | Environmental data science, part I | Arindam Basu |
+| 24/7 | 11:00 - 12:00 pm | Lunch break | N/A |
+| 24/7 | 12:00 - 2:00 pm  | Environmental health data science, part II | N/A |
+| 24/7 | 2:00 - 2:15 pm   | Afternoon tea break  | N/A |
+| 24/7 | 2:15 - 3:00 pm  | Group discussion on research interest | Arindam Basu |
+| 25/7 | 9:00 - 10:00 | Environmental Epidemiology, part I | Ann Richardson |
+| 25/7 | 10:00 - 11:00 | Environmental Epidemiology, part II | Ann Richardson |
+| 25/7 | 11:00 - 12:00 | Hands on Environmental Epidemiological data analysis, part I | Arindam Basu |
+| 25/7 | 12:00 - 1:00 pm | Lunch break | N/A  |
+| 25/7 | 1:00 - 3:00 pm | Hands on Environmental Epidemiological data analysis, part II | Arindam Basu |
+| 21/8 | 9:00 - 10:00  | Outbreak investigation | Ann Richardson |
+| 21/8 | 10:00 - 12:00 | Hands on outbreak investigation | Arindam Basu |
+| 21/8 | 12:00 - 1:00 pm | Lunch break  | N/A   |
+| 21/8 | 1:00 - 2:00 pm  | Student presentations, set I | All |
+| 21/8 | 2:00 - 2:15 pm  | Afternoon tea break  | All |
+| 21/8 | 2:15 - 3:00 pm  | Student presentations and debriefing | All |
+| 22/8 | 9:00 - 12:00 pm | Environmental health risk assessment  | Arindam Basu |
+| 22/8 | 12:00 - 1:00 pm | Lunch  | N/A |
+| 22/8 | 1:00 - 2:00 pm | An environmental investigation | Jeff Foote |
+| 22/8 | 2:00 pm - 3:00 pm | Food toxins  | Ian Shaw |
+| 25/9 | 9:00 am - 12:00 pm | Food safety, part I | Ian Shaw |
+| 25/9 | 12:00 - 1:00 pm | Lunch |N/A |
+| 25/9 | 1:00 - 3:00 pm | Food safety, part II | Ian Shaw |
+| 26/9 | 9:00 - 12:00 pm | Environmental health case studies | Alistair Humphrey |
+| 25/9 | 12:00 - 12:30 pm | Lunch  | All |
+| 26/9 | 12:30 - 3:00 pm | Field visit to Christchurch Wastewater treatment plant | CCC |
 
 
+## Assessments
+There are two assessments for this course, each worth 50% and each assessment address all five goals. These include environmental health risk assessment (Goals 1 and 2), environmental epidemiology (Goal 3), toxicology (Goal 4) and environmental health issues (Goal 5).
 
+### Assessment I: Presentation of an Environmental health topic  (50%)
+This will be a presentation by the student on an Environmental Health Issue. **The due date/time the due date is 21/8, and the presentations will be given in the afternoon, from 1.00 – 3.00pm**. In this assessment, the student will identify an Environmental Health issue of their own choice, and develop a presentation (using PowerPoint or pdf) on the issue, and answer questions from the audience. The presentation will be about 10 minutes and 5 minutes of questions and answers. The students will be marked out of 50 based on the presentation and the way they answer questions from the audience.
 
-
+### Assessment II: Writing a review paper or a report in the correct form for a specific scientific journal (50%)
+Building on the presentation, the student will write their presentations up as either a scientific paper (a review) using a particular journal's instructions for authors, or write it up as an article suitable for publication in a newspaper. The purpose will be to test the science communication skills of the student.
+Please follow the instructions given in the EHP website
+1. https://ehp.niehs.nih.gov/instructions-to-authors/
+2. https://ehp.niehs.nih.gov/manuscript-preparation/
+3. https://ehp.niehs.nih.gov/manuscript-style/
+(In the manuscript style,
+please follow the British spelling convention, not the US convention as the journal mentions. You can also use either the Environmental Health Perspectives style for references or you can use APA 6th reference styles. )  
+**Due date of submission: 12th October, Friday, 5 PM**
