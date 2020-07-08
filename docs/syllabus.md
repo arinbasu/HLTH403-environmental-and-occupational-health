@@ -40,12 +40,11 @@ Students who successfully complete this course will:
 
 ## Timetable 2020
 
-All classes are held at Manawa HREF HP307 and HP308 Rooms. 
+All classes are held at Manawa HP406 
 These classrooms are located at 176, St Asaph Street.
-For more information, see the timetable and follow this link:
-[https://www.canterbury.ac.nz/maps/home?q=Manawa%2520HREF%2520HP307&z=13&c=-43.5520270677423%2C172.5832621894399](https://www.canterbury.ac.nz/maps/home?q=Manawa%2520HREF%2520HP307&z=13&c=-43.5520270677423%2C172.5832621894399)
 
-The course is taught in three blocks of two days each. 
+
+The course is taught in **three blocks of two days** each. 
 The classes are held between 9 AM - 3:30 PM on the following dates:
 
 1. First block first day: 22nd July, 2020, Wednesday
