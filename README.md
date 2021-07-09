@@ -84,7 +84,7 @@ Step by step instructions:
  8. The length of the annotated bibliography must be 1500 words or less.
  9. The word count does not include words in tables, and figures.
 10. As this is an annotated bibliography, a separate citation list is not needed. You can add footnotes or endnotes.
-11. After you complete writing the annotated bibliography, submit a PDF version to the Learn site by **30th July, 2020, 5 PM** (this is a hard deadline, you can submit earlier)
+11. After you complete writing the annotated bibliography, submit a PDF version to the Learn site by **6th August, 2021, 5 PM** (this is a hard deadline, you can submit earlier)
 
 ### A2. Assessment II: Write a simplified systematic map of an environmental health issue (50%)
 
@@ -101,7 +101,7 @@ Step by step instructions:
  7. After writing the assignment, save the document as a PDF and upload to Learn in the assessments page
  8. The word limit for this exercise is 2000 words and word count excludes words included in figures, tables, and reference lists
  9. Use APA 7th Edition for citations
-10. Submit by 4th September, 2020, 5 PM. This is a hard deadline. You can submit earlier.
+10. Submit by **10th September, 2021, 5 PM**. This is a hard deadline. You can submit earlier.
 
 ### A3. Assessment III: Write a review of an Environmental Health Risk Assessment paper
 
@@ -113,7 +113,7 @@ Step by step instructions:
 2. Identify a previously conducted Environmental Health Risk Assessment and access the document.
 3. Read the document and take notes keeping in mind the four tasks (hazard identification, exposure assessment, dose-response assessment, and risk characterisation)
 4. Write your critique of the EHRA process and content using the template available on Learn.
-5. Convert the document to PDF and upload to Learn Assessment page by 4th October, 2020, 5 PM. This is a hard deadline. You can submit earlier if you wish.
+5. Convert the document to PDF and upload to Learn Assessment page by **7th October, 2021, 5 PM**. This is a hard deadline. You can submit earlier if you wish.
 
 ## Links
 
